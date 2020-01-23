@@ -1,0 +1,1 @@
+Sum (Coef 1.0) (Sum (Prod (Coef 0.0) X) (Prod (Coef 2.0) (Coef 1.0)))
